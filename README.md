@@ -2,6 +2,8 @@
 
 轻量级 Markdown 文档建站框架：把 `docs/` 目录下的 `.md` / `.mdw` 文件直接渲染为响应式网站，内置导航树、主题定制、管理后台与管理 API。
 
+<kbd>简体中文</kbd> <kbd>[English](README-en.md)</kbd>
+
 ## 特性
 
 - 📝 **类 Markdown 语法** — 支持 `.mdw` / `.md`，扩展自定义块（提示框、卡片、外部模板）
